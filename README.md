@@ -1,9 +1,5 @@
 # BookShoppingCartMvc (A basic e-comm system for beginners)📚🛒
 
-It is a source code of the youtube tutorial on [book shopping cart in .net core mvc](https://www.youtube.com/watch?v=R4ZLWD89R5w&list=PLP8UhDwXI7f_8r2Rbt7GNwf7eXZqUu_p4). I have tried to explain how shopping cart 🛒 works in dot net core mvc. A ⭐ in repository is highly appreciated, helps to promote my content.
-
-📢 Initially , this project was built with .net 7. But it works fine with .net 6+ and now it is **Upgraded to .net 8.0.** I will try to keep it up to date.
-
 ## Tech stack 🧑‍💻
 
    - Dotnet core mvc (.Net 8)
@@ -12,10 +8,6 @@ It is a source code of the youtube tutorial on [book shopping cart in .net core 
    - Identity Core (Authentication)
    - Bootstrap 5 (frontend)
 
-## Video tutorial 📺
-
-[Youtube playlist](https://www.youtube.com/watch?v=R4ZLWD89R5w&list=PLP8UhDwXI7f_8r2Rbt7GNwf7eXZqUu_p4)
-
 ## How to run the project?🌐
 
 I am assuming that, you have already installed **Visual Studio 2022** (It is the latest as of march,2024) and **MS SQL Server Management Studio** (I am using mssql server 2022 as of march,2024). Now, follow the following steps.
@@ -23,7 +15,7 @@ I am assuming that, you have already installed **Visual Studio 2022** (It is the
 1.Open command prompt. Go to a directory where you want to clone this project. Use this command to clone the project.
 
 ```bash
-git clone https://github.com/rd003/BookShoppingCart-Mvc
+git clone https://github.com/SrejonFerdous/DigitalRead_E-Book-Store
 ```
 
 2.Go to the directory where you have cloned this project, open the directory `BookShoppingCart-Mvc`. You will find a file with name `BookShoppingCartMvc.sln`. Double click on this file and this project will be opened in Visual Studio.
@@ -315,11 +307,8 @@ If you find this repository useful, then consider to leave a ⭐.
 
 Connect with me
 
-👉 YouTube: <https://youtube.com/@ravindradevrani>
+👉 LinkedIn: <https://www.linkedin.com/in/srejon-ferdous/>
 
-👉 Twitter: <https://twitter.com/ravi_devrani>
-
-Become a supporter ❣️:
-You can buy me a coffee 🍵 : <https://www.buymeacoffee.com/ravindradevrani>
+👉 Facebook: <https://www.facebook.com/srejon.ferdous10>
 
 Thanks a lot 🙂🙂
